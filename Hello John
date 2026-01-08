@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Hello John</title>
+  <style>
+    body {
+      background-color: white;
+      color: black;
+      font-family: Arial, sans-serif;
+      margin: 40px;
+    }
+  </style>
+</head>
+<body>
+  <h1> Hello John </h1>
+  <p> This is a very Funny/cool/interesting web site wouldnt you say? you should consider this for a ticket. It would be very chill of you if you did. -JT. </p>
+</body>
+</html>
